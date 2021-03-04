@@ -1,4 +1,6 @@
-db.sqlite3
+.idea/
 venv/
 chromedriver
-.idea/
+db.sqlite3
+__pycache__
+*.pyc
